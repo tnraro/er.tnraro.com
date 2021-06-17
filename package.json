@@ -1,0 +1,25 @@
+{
+  "name": "er.tnraro.com",
+  "devDependencies": {
+    "@types/node": "^15.12.2",
+    "@types/react": "^17.0.11",
+    "@typescript-eslint/eslint-plugin": "latest",
+    "@typescript-eslint/parser": "latest",
+    "eslint": "^7.28.0",
+    "eslint-config-next": "^11.0.0",
+    "eslint-plugin-react": "latest",
+    "typescript": "^4.3.3"
+  },
+  "dependencies": {
+    "next": "^11.0.0",
+    "next-i18next": "^8.5.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "scripts": {
+    "lint": "next lint",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
